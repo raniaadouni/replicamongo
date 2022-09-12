@@ -1,4 +1,4 @@
-this is for deployin MongoDB Replica Set on Docker using Docker-Compose </br>
+This is for deployin MongoDB Replica Set on Docker using Docker-Compose and Bash Script </br>
 and also deploying Percona Backup Mongodb to test Point In time recovery Backup(PITR) </br>
 
 #### Percona Backup for MongoDB is an open-source, distributed and low-impact solution for consistent backups of MongoDB sharded clusters and replica sets.</br>
