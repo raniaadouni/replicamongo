@@ -1,0 +1,7 @@
+storage:
+  type: filesystem
+  filesystem:
+    path: /backup
+pitr:
+  enabled: true
+  oplogSpanMin: 5
